@@ -1,0 +1,58 @@
+[
+    {
+        "sid": "18",
+        "sname": "asdadq",
+        "saddress": "adnasjn",
+        "sclass": "PHD",
+        "sphone": "anoiqnionq",
+        "cname": "PHD"
+    },
+    {
+        "sid": "19",
+        "sname": "asalk",
+        "saddress": "enfqne ",
+        "sclass": "PHD",
+        "sphone": "maklsaki",
+        "cname": "PHD"
+    },
+    {
+        "sid": "5",
+        "sname": "Nouman Yousaf",
+        "saddress": "oky oky okyh",
+        "sclass": "BS",
+        "sphone": "0323415797",
+        "cname": "BS"
+    },
+    {
+        "sid": "8",
+        "sname": "Afridi",
+        "saddress": "Behria Phase 8 C-view",
+        "sclass": "FSC",
+        "sphone": "11212313",
+        "cname": "FSC"
+    },
+    {
+        "sid": "22",
+        "sname": "a",
+        "saddress": "a",
+        "sclass": "BS",
+        "sphone": "a",
+        "cname": "BS"
+    },
+    {
+        "sid": "1",
+        "sname": "Altaf Husaain",
+        "saddress": "Nine Zero Markaz Karachi ",
+        "sclass": "BS",
+        "sphone": "90 90 90",
+        "cname": "BS"
+    },
+    {
+        "sid": "20",
+        "sname": "Mulana FYP",
+        "saddress": "DG khan",
+        "sclass": "FSC",
+        "sphone": "00909303",
+        "cname": "FSC"
+    }
+]
