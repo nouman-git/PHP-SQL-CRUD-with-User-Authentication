@@ -51,6 +51,13 @@ To run this application locally, follow these steps:
 
 
 ## Security Considerations
+In your XAMPP/htdocs directory, ensure that you have the following folder structure:
+xampp/htdocs/
+   └── 00_practice/
+       └── PHP_SQL/
+       
+This folder structure is important because throughout your application, paths are referenced like this:
+header("Location: http://localhost/00_practice/PHP_SQL/required_file");
 
 - username: abc@gmail.com
 - password: 123
